@@ -1,6 +1,6 @@
 # Smart Health Monitoring Band
 
-Bachelor's Final Year Project – An IoT-based Smart Health Monitoring Band developed using Arduino UNO and ESP8266 for monitoring vital health parameters and enabling remote healthcare.
+Bachelor's Final Year Project, An IoT-based Smart Health Monitoring Band developed using Arduino UNO and ESP8266 for monitoring vital health parameters and enabling remote healthcare.
 
 ## Features
 
